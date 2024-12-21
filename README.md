@@ -65,3 +65,36 @@
 
 20. **Gerador de Quadrados**
     Escreva um programa que receba um número e exiba um quadrado de asteriscos do tamanho correspondente (ex: 3 x 3).
+
+## Manipulação do DOM com JavaScript
+
+21. **Alterar o Título de uma Página**  
+   - Crie um botão que, ao ser clicado, altera o título da página para "Título Alterado com JavaScript".
+
+22. **Trocar Cor de Fundo**  
+   - Adicione um seletor de cores. Quando o usuário escolher uma cor, altere a cor de fundo da página para a cor selecionada.
+
+23. **Adicionar Itens a uma Lista**  
+   - Crie uma lista `<ul>` vazia e um botão. Cada vez que o botão for clicado, adicione um novo item à lista com o texto "Novo Item".
+
+24. **Remover Elementos de uma Lista**  
+   - Use a lista do exercício anterior. Adicione outro botão que remova o último item da lista quando clicado.
+
+25. **Exibir e Ocultar Texto**  
+   - Crie um parágrafo com um texto e dois botões: um para esconder o texto e outro para exibi-lo novamente.
+
+26. **Contador de Cliques**  
+   - Adicione um botão e um contador ao lado. Cada vez que o botão for clicado, o número do contador deve ser incrementado em 1.
+
+27. **Alterar o Conteúdo de uma Div**  
+   - Crie uma `<div>` com o texto "Texto Original" e um botão que, ao ser clicado, altera o texto da `<div>` para "Texto Alterado".
+
+28. **Criar uma Tabela Dinamicamente**  
+   - Adicione um botão que, ao ser clicado, crie uma tabela de 3x3 preenchida com números de 1 a 9.
+
+29. **Mover um Elemento na Página**  
+   - Crie um quadrado `<div>` e dois botões "Mover para a Direita" e "Mover para a Esquerda". Ao clicar nos botões, o quadrado deve se mover horizontalmente.
+
+30. **Validar Formulário**  
+    - Crie um formulário com um campo de e-mail e um botão de envio. Valide se o e-mail contém "@" antes de enviar e exiba uma mensagem de erro se não for válido.
+
